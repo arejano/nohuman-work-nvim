@@ -3,18 +3,25 @@
 
 ## O que é o nohuman-work?
 
-nohuman-work é um plugin para o nvim que entrega uma interface de controle para o fluxo de trabalho.
+nohuman-work tenta ser um plugin para o nvim que entrega uma interface de controle para o fluxo de trabalho.
+é baseado no meu fluxo e no que eu gostaria de ter a mãos enquanto uso o vim
+
+
+Tudo que acho que sei sobre vim, lua e ideias para um melhor fluxo de trampo devo a esses dois caras:
+
+https://github.com/ThePrimeagen
+https://github.com/tjdevries
+
 
 ## NOHUMAN-WORK-NVIM Table of Contents
 
 - [Instalar](#instalar)
 - [Configurar](#configurar)
 - [Usar](#usar)
-
 - [Default Mappings](#default-mappings)
 
 
-### Installation
+### Instalar
 
 Using [vim-plug](https://github.com/arejano/nohuman-work-nvim)
 
