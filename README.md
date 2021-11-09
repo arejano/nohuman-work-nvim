@@ -9,8 +9,8 @@ nohuman-work tenta ser um plugin para o nvim que entrega uma interface de contro
 
 Tudo que acho que sei sobre vim, lua e ideias para um melhor fluxo de trampo devo a esses dois caras:
 
-https://github.com/ThePrimeagen
-https://github.com/tjdevries
+ - [ThePrimeagen](#https://github.com/ThePrimeagen)
+ - [TjDevries](#https://github.com/tjdevries)
 
 
 ## NOHUMAN-WORK-NVIM Table of Contents
